@@ -1,8 +1,6 @@
-<!-- Palet NewJeans: baby blue #A7D8F5 · bunny pink #FFC8DD · cloud white #FFFFFF · navy #1B2A4A -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=A7D8F5,FFC8DD,FFFFFF&height=200&section=header&text=Hi%2C%20I'm%20Dudu%20%F0%9F%90%B0&fontSize=52&fontColor=1B2A4A&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=A7D8F5,FFC8DD,FFFFFF&height=200&section=header&text=Hi%2C%20I'm%20Malvin%20%F0%9F%90%B0&fontSize=52&fontColor=1B2A4A&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=6BB6E8&center=true&vCenter=true&width=520&lines=Backend+%26+Cloud+Engineer;Multi-Target+Tracking+Enthusiast;Kalman+Filter+%2B+LAPJV+%F0%9F%8E%AF;Powered+by+coffee+%26+Minji+%F0%9F%A7%8B" alt="Typing SVG" />
 
