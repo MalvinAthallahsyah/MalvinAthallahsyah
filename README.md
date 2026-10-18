@@ -62,11 +62,11 @@
 
 | 🎶 Playlist | Vibe |
 |:---:|:---:|
-| Attention | ☁️ fokus ngoding |
-| Hype Boy | ⚡ semangat debugging |
-| Ditto | 🌙 begadang ngerjain simulasi |
-| Super Shy | 🍬 pas ada commit hijau |
-| ETA | 🏃 deadline mepet |
+| Attention | ☁️ Chilling |
+| Hype Boy | ⚡ Debugging |
+| Ditto | 🌙 Simulation |
+| Super Shy | 🍬 Commit |
+| ETA | 🏃 Deadline |
 
 </div>
 
