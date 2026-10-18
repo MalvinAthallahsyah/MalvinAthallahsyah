@@ -16,13 +16,16 @@
 
 ## 🐰 About Me
 
-```text
-🎓 Information Systems @ Telkom University (exchange: Kumamoto University 🇯🇵)
-🔭 Intern working on multi-target tracking systems
-⚙️ Kalman Filter + LAPJV for real-time tracking simulation
-🌱 Currently learning Azure AI & cloud backend
+**Backend & Cloud Engineer** focused on building scalable, reliable systems. I build APIs and design relational databases with **Go**, **Python**, and **Laravel**, and I enjoy turning algorithmic problems into clean, efficient code.
+
+My strongest foundation is in algorithms, from state estimation with the **Kalman Filter** to data association with **LAPJV**, which I apply to real-time multi-target tracking problems.
+
+I'm now deepening my cloud skills on **Azure**, working toward the **Microsoft Azure AI Cloud Developer Associate** certification, so that the systems I build are not only correct but also ready to deploy and scale.
+
+I'm detail-oriented, collaborative, and care about writing code that teammates can understand and maintain. Driven by curiosity, I keep learning so that every system I work on is better than the last.
+
+🎓 Information Systems student at **Telkom University**, with an exchange at **Kumamoto University, Japan** 🇯🇵<br/>
 🎧 Soundtrack: NewJeans on repeat
-```
 
 ---
 
