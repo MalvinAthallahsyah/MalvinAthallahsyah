@@ -4,7 +4,7 @@
 
 <img src="banner.gif" alt="Hi, I'm Malvin" width="498" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FF6FB5&center=true&vCenter=true&width=700&height=40&lines=Hi%2C+I'm+Malvin%21;Backend+%26+Cloud+Engineer;Multi-Target+Tracking+Enthusiast;Kalman+Filter+%2B+LAPJV+%F0%9F%8E%AF;Powered+by+coffee+%26+Minji+%F0%9F%A7%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FF6FB5&center=true&vCenter=true&width=700&height=40&lines=Hi%2C+I'm+Malvin%21;Backend+%26+Cloud+Engineer;Powered+by+coffee+%26+Minji+%F0%9F%A7%8B" alt="Typing SVG" />
 
 <br/>
 
