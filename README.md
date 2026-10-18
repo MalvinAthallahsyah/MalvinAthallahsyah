@@ -1,5 +1,3 @@
-<!-- Palet NewJeans: baby blue #A7D8F5 · bunny pink #FFC8DD · cloud white #FFFFFF · navy #1B2A4A -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=A7D8F5,FFC8DD,FFFFFF\&height=200\&section=header\&text=Hi%2C%20I'm%20Dudu%20%F0%9F%90%B0\&fontSize=52\&fontColor=1B2A4A\&animation=fadeIn\&fontAlignY=38" width="100%" />
