@@ -47,12 +47,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&hide_border=true&bg_color=FFF5F9&title_color=6BB6E8&icon_color=FF9EC4&text_color=1B2A4A&ring_color=A7D8F5" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&hide_border=true&bg_color=FFF5F9&title_color=6BB6E8&text_color=1B2A4A" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MalvinAthallahsyah&show_icons=true&hide_border=true&bg_color=FFF5F9&title_color=6BB6E8&icon_color=FF9EC4&text_color=1B2A4A&ring_color=A7D8F5" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalvinAthallahsyah&layout=compact&hide_border=true&bg_color=FFF5F9&title_color=6BB6E8&text_color=1B2A4A" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&hide_border=true&background=FFF5F9&ring=A7D8F5&fire=FF9EC4&currStreakLabel=6BB6E8&sideLabels=1B2A4A&currStreakNum=1B2A4A&sideNums=1B2A4A&dates=1B2A4A" />
+<img src="https://streak-stats.demolab.com?user=MalvinAthallahsyah&hide_border=true&background=FFF5F9&ring=A7D8F5&fire=FF9EC4&currStreakLabel=6BB6E8&sideLabels=1B2A4A&currStreakNum=1B2A4A&sideNums=1B2A4A&dates=1B2A4A" />
 
 </div>
 
@@ -78,9 +78,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-A7D8F5?style=for-the-badge&logo=github&logoColor=1B2A4A)](https://github.com/USERNAME_KAMU)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC8DD?style=for-the-badge&logo=linkedin&logoColor=1B2A4A)](https://linkedin.com/in/USERNAME_KAMU)
-[![Email](https://img.shields.io/badge/Email-A7D8F5?style=for-the-badge&logo=gmail&logoColor=1B2A4A)](mailto:EMAIL_KAMU)
+[![GitHub](https://img.shields.io/badge/GitHub-A7D8F5?style=for-the-badge&logo=github&logoColor=1B2A4A)](https://github.com/MalvinAthallahsyah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC8DD?style=for-the-badge&logo=linkedin&logoColor=1B2A4A)](https://linkedin.com/in/malvinathallahsyah)
+[![Email](https://img.shields.io/badge/Email-A7D8F5?style=for-the-badge&logo=gmail&logoColor=1B2A4A)](mailto:malvinathallahsyah04@gmail.com)
 
 <br/>
 
