@@ -50,8 +50,7 @@ I'm detail-oriented, collaborative, and care about writing code that teammates c
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MalvinAthallahsyah&show_icons=true&border_color=1B2A4A&border_radius=0&bg_color=FFF5F9&title_color=6BB6E8&icon_color=FF9EC4&text_color=1B2A4A&ring_color=A7D8F5" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalvinAthallahsyah&layout=compact&border_color=1B2A4A&border_radius=0&bg_color=FFF5F9&title_color=6BB6E8&text_color=1B2A4A" />
+
 
 <br/>
 
